@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { ArrowDown, ArrowRight } from 'lucide-react';
-import darkBgImage from 'figma:asset/cacd130065d15c90cab771099937a07aab462270.png';
-import lightBgImage from 'figma:asset/3a62049cb18803e073e2dc6b67228cd58e935c20.png';
+import darkBgImage from '../assets/darkimage.png';
+import lightBgImage from '../assets/LightBgImage.png';
 import '../all.css';
 
 export function Hero() {
